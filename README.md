@@ -4,7 +4,8 @@ kafalib is a light, experimental library for Python.
 # Installation
 To install *kafalib* firt, I just wanted to inform you, that I've built the *kafalib* on a Windows machine.
 So, after this make sure to isntall these modules first, through the ***pip install*** command in your CMD:
-- *no libraries provided yet*
+- keyboard
+- playsound
 Now, the only thing left, is to download the **kafalib.py** file (or this whole project) and place the Python file anywhere you want, then - *import* it.
 
 # Modifying
