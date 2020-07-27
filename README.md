@@ -5,9 +5,8 @@
 There is no **foretechx.py** file yet in this repository, so no changelog made yet ;D
 
 # Latest to-do list
-[ ] Add **foretechx.py** file to this repo
-
-[ ] Create a Python file with examples of *foretechx* features
+- [ ] Add **foretechx.py** file to this repo
+- [ ] Create a Python file with examples of *foretechx* features
 
 # Installation
 To install *foretechx* firt, I just wanted to inform you, that I've built the *foretechx* on a Windows machine.
