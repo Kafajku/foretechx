@@ -32,8 +32,9 @@ Here are some features that *foretechx* implies:
 And more!
 
 ## Changelog
-- *28.07.2020; 15:48* >>>Added colors & `requestFromURL()` function to `file` class
-- *28.-7.2020; 16:54* >>>Added `cls()` and `match()` function
+- *28.07.2020; 3:32pm* >>>Added class `cursor`
+- *28.07.2020; 3:48pm* >>>Added colors & `requestFromURL()` function to `file` class
+- *28.07.2020; 4:54pm* >>>Added `cls()` and `match()` function
 
 ## Latest to-do list
 - [X] Add **foretechx.py** file to this repo
