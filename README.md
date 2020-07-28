@@ -35,7 +35,7 @@ And more!
 - *28.07.2020; 3:32pm* >>>Added class `cursor`
 - *28.07.2020; 3:48pm* >>>Added colors & `requestFromURL()` function to `file` class
 - *28.07.2020; 3:54pm* >>>Added `cls()` and `match()` function
-- *28.07.2020; 4.30pm* >>>Added function (called `resize`) to resize the window
+- *28.07.2020; 4.30pm* >>>Added function `resize()` to change columns and lines of terminal
 
 ## Latest to-do list
 *All the tasks have been completed*
