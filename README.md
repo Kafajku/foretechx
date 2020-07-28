@@ -9,15 +9,15 @@
 5. Latest to-do list
 
 ## Installation
-To install *foretechx* firt, I just wanted to inform you, that I've built the *foretechx* on a Windows machine.
-So, after this make sure to isntall these modules first, through the ***pip install*** command in your CMD:
+To install *foretechx* first, I just wanted to inform you, that I've built the *foretechx* on a Windows machine + Python version 3.8.
+So, after this make sure to isntall these modules first, through the **pip install** command in your CMD:
 - keyboard
 - playsound
 
 Now, the only thing left, is to download the **foretechx.py** file (or this whole project) and place the Python file anywhere you want, then - import it.
 
 ## Modifying
-I knew you will want to do this, so I've made some simple rules, when you'll be sharing modified source code of **foretechx.py**:
+If you want to do this, so I've made some simple rules, when you'll be sharing modified source code of **foretechx.py**:
 1. Give link to the official project's repository on GitHub.
 2. Add me as a credit (for the base source code)
 
@@ -35,5 +35,6 @@ And more!
 There is no **foretechx.py** file yet in this repository, so no changelog made yet ;D
 
 ## Latest to-do list
-- [ ] Add **foretechx.py** file to this repo
+- [X] Add **foretechx.py** file to this repo
 - [ ] Create a Python file with examples of *foretechx* features
+- [X] Correct some mistakes in this file
