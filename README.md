@@ -32,9 +32,10 @@ Here are some features that *foretechx* implies:
 And more!
 
 ## Changelog
-There is no **foretechx.py** file yet in this repository, so no changelog made yet ;D
+- *28.07.2020; 15:48* >>>Added colors & `requestFromURL()` function to `file` class
+- *28.-7.2020; 16:54* >>>Added `cls()` and `match()` function
 
 ## Latest to-do list
 - [X] Add **foretechx.py** file to this repo
-- [ ] Create a Python file with examples of *foretechx* features
+- [X] Create a Python file with examples of *foretechx* features
 - [X] Correct some mistakes in this file
