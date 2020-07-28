@@ -135,3 +135,9 @@ colors = {
 	"reverse": '\u001b[7m',
 	"def": '\u001b[0m'
 }
+
+def resize(columns, lines):
+	""" Changes columns and lines of the terminal """
+	columns = int(columns / 16)
+	lines = int(lines / 32)
+	os.system("mode con: cols=" + str(columns) + " lines=" + str(lines))
