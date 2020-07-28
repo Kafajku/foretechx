@@ -37,8 +37,6 @@ And more!
 - *28.07.2020; 4:54pm* >>>Added `cls()` and `match()` function
 
 ## Latest to-do list
-- [X] Add **foretechx.py** file to this repo
-- [X] Create a Python file with examples of *foretechx* features
-- [X] Correct some mistakes in this file
+*All the tasks have been completed*
 
 ###### Copyright (C) foretechx by Kafajku - All rights reserved
