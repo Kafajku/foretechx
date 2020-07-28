@@ -47,6 +47,7 @@ playSound("C:/Users/acer/Desktop/example-mp3.mp3") # Plays a sound :D
 sleep(1000) # Makes your Python script sleep for given amount of time (in ms)
 char = pause() # Pauses your Python script; returns pressed character (as 'bytes')
 cls() # Clears the terminal
+resize(1024, 1024) # Changes number of columns and lines
 
 string = "abc" # Example variable
 outPutFromMatch = match("abc", globals()) # In this case, returns string 'string' (cause 'string' variable's value matches); 'container' (second) argument must be always defined (as a dict)
